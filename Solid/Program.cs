@@ -10,6 +10,9 @@ namespace Solid
     {
         static void Main(string[] args)
         {
+            Employee EmpSany = new Employee();
+            Console.WriteLine(EmpSany);
+            Console.ReadLine();
         }
     }
 }
