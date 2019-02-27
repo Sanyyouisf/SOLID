@@ -10,8 +10,11 @@ namespace Solid
     {
         static void Main(string[] args)
         {
-            Employee EmpSany = new Employee();
-            Console.WriteLine(EmpSany);
+            // to display the bonus
+            Employee EmpSany = new Employee(1, "Sany", "permanent");
+            Console.WriteLine(string.Format("{0} - {1} - Bounus {2}" ,EmpSany.ToString(),EmpSany.EmpType ,EmpSany.CalculateBonus(50000).ToString()));
+
+
             Console.ReadLine();
         }
     }
