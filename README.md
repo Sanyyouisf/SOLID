@@ -3,6 +3,7 @@ Demonistrate the SOLID Principles
 
 ### ` S ` : single- responsibility principle (SRP).
 - A class should have one and only one reason to change.
+- a class should only have one job.
 
 ### ` O ` : open-closed principle (OSP).
 - Software entities like classes, modules or functions should be open for extension but closed for modification.
@@ -19,4 +20,3 @@ Demonistrate the SOLID Principles
 ### ` D ` : Dependency Inversion principle (DIP).
 - The high-level module must not depend on the low-level module, but both should depend on abstractions and these abstractions should not depend on details. 
 - Abstractions should not depend on details, details should depend on abstractions.
-
