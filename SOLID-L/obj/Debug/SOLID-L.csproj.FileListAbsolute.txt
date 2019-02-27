@@ -1,0 +1,6 @@
+C:\Users\Developer\projects\Test\Solid Principles\SOLID-L\bin\Debug\SOLID-L.exe.config
+C:\Users\Developer\projects\Test\Solid Principles\SOLID-L\bin\Debug\SOLID-L.exe
+C:\Users\Developer\projects\Test\Solid Principles\SOLID-L\bin\Debug\SOLID-L.pdb
+C:\Users\Developer\projects\Test\Solid Principles\SOLID-L\obj\Debug\SOLID-L.exe
+C:\Users\Developer\projects\Test\Solid Principles\SOLID-L\obj\Debug\SOLID-L.pdb
+C:\Users\Developer\projects\Test\Solid Principles\SOLID-L\obj\Debug\SOLID-L.csprojResolveAssemblyReference.cache
